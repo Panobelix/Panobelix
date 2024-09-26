@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and JavaScript**
 
-- 👨‍💻 My portfolio are available at [paularn.fr](paularn.fr)
+- 👨‍💻 My portfolio is available at [paularn.fr](paularn.fr)
 
 - 📫 How to reach me **paul.arnaud.06@gmail.com**
 
